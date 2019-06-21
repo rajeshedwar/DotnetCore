@@ -1,0 +1,14 @@
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\bin\Debug\netcoreapp2.2\EventAPI.deps.json
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\bin\Debug\netcoreapp2.2\EventAPI.runtimeconfig.json
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\bin\Debug\netcoreapp2.2\EventAPI.runtimeconfig.dev.json
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\bin\Debug\netcoreapp2.2\EventAPI.dll
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\bin\Debug\netcoreapp2.2\EventAPI.pdb
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.csproj.CoreCompileInputs.cache
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.RazorAssemblyInfo.cache
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.RazorAssemblyInfo.cs
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.AssemblyInfoInputs.cache
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.AssemblyInfo.cs
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.dll
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.pdb
+C:\Users\hadmin\DotNetCore\EventMicroServiceApp\EventAPI\EventAPI\obj\Debug\netcoreapp2.2\EventAPI.csprojAssemblyReference.cache

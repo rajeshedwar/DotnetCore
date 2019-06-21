@@ -1,0 +1,14 @@
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\bin\Debug\netcoreapp2.2\EmptyWebDemo.deps.json
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\bin\Debug\netcoreapp2.2\EmptyWebDemo.runtimeconfig.json
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\bin\Debug\netcoreapp2.2\EmptyWebDemo.runtimeconfig.dev.json
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\bin\Debug\netcoreapp2.2\EmptyWebDemo.dll
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\bin\Debug\netcoreapp2.2\EmptyWebDemo.pdb
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.csprojAssemblyReference.cache
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.csproj.CoreCompileInputs.cache
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.RazorAssemblyInfo.cache
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.RazorAssemblyInfo.cs
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.AssemblyInfoInputs.cache
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.AssemblyInfo.cs
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.RazorTargetAssemblyInfo.cache
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.dll
+C:\Users\hadmin\DotNetCore\EmptyWebDemo\obj\Debug\netcoreapp2.2\EmptyWebDemo.pdb
